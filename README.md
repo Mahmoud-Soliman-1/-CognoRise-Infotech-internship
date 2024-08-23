@@ -35,9 +35,8 @@ Data Analysis internship at CognoRise Infotech
 
 # ➡ Second Task ( EMPLOYEE SALARIES FOR DIFFERENT JOB ROLS ) :
 
-##           ❗ The problem is: that  HR analysts, or someone interested in 
-
-                   understanding salary trends for different AI and Data roles,
+##           ❗ The problem is:   
+                   that HR analyst, or someone interested in understanding salary trends for different AI and Data roles,
 
 
 
