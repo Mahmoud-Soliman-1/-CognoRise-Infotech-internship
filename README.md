@@ -27,3 +27,46 @@ Data Analysis internship at CognoRise Infotech
 
                   ⭐ Visualize Labour Participation Rate by Area
 
+
+
+
+
+# ➡ Second Task ( EMPLOYEE SALARIES FOR DIFFERENT JOB ROLS ) :
+
+##           ❗ The problem is: that  HR analysts, or someone interested in 
+
+                   understanding salary trends for different AI and Data roles,
+
+
+
+ ##          ✅ The analysis Steps: 
+
+                   ⭐ Explore The Dataset
+                  
+                   ⭐ Clean The Data
+                  
+                   ⭐ Visualizing Trends Across All Features 
+                  
+                   ⭐ Analyzing the outliers and removing them
+                  
+                   ⭐ Updated the job titles to categorize all roles under a general  label
+                  
+                   ⭐ Visualize Job Title Distribution
+                  
+                   ⭐ Visualize Salaries Distribution
+                  
+                   ⭐ Visualize Experience level Distribution
+                  
+                   ⭐ Visualize Experience level Trends over the years
+                  
+                   ⭐ Visualize Average Salary  spent By location
+                  
+                   ⭐ Visualize the type of job (Remote, On-Site, Hybrid)
+                  
+                   ⭐ Visualize Expenditure by Currency
+                  
+                   ⭐ Visualize the Number of companies by size
+                  
+                  
+                                    
+                  
