@@ -67,6 +67,40 @@ Data Analysis internship at CognoRise Infotech
                    ⭐ Visualize Expenditure by Currency
                   
                    ⭐ Visualize the Number of companies by size
+
+
+# ➡ Third Task ( BigMart Sales ) :
+
+##   ❗ The problem is that the sales team wants to Discover Trends in The Dataset
+
+
+
+##  ✅ The analysis Steps: 
+
+             ⭐ Explore The Dataset
+            
+             ⭐ Clean The Data
+            
+             ⭐ Visualizing Trends Across All Features
+            
+             ⭐ Analyzing the outliers and removing it 
+            
+             ⭐ Visualize Outlet Sales over the Years
+            
+             ⭐ Visualize Comparison of Distribution Fat Content Categories Across Item MRP
+            
+             ⭐ Visualize Item Fat Content Count
+            
+             ⭐ Visualize Distribution of Item Visibility
+            
+             ⭐ Visualize Outlet Size Count
+            
+             ⭐ Visualize Outlet Location Type Count
+            
+             ⭐ Visualize Item Outlet Sales by Location Type
+            
+             ⭐ Visualize Distribution of Item Visibility and Item_Outlet_Sales
+                               
                   
                   
                                     
